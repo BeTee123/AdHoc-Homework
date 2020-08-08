@@ -1,0 +1,37 @@
+# UX Designer Assignment: Appointment
+
+## Problem: Design an interface that allows a patient to schedule an appointment with their doctor online.
+
+## Task: Prepare a set of questions to bring to a kick-off meeting.
+* What are the first 10 questions that you would ask? 
+* If you had to pick just five of them, which would you prioritize and why?
+
+### 10 Questions:
+1. What does success look like for this project?
+2. Who are the users? (patient, home care aide, organization?)
+3. What are the main goals of the users?
+4. What do we know about how the users currently perform this task in their environment and what they dislike/feel frustrated about with the current approach?
+5. What is important to the users?
+6. What similar methods exist that the users might already be familiar with?
+7. What physical or cognitive limitations might the users have?
+8. How familiar with and open to technology are the users?
+9. How can we make it more enjoyable, efficient and effective for the users?
+10. Who else do we need to talk to that will help us define the problem?
+
+### Top 5 Questions:
+I would choose the 5 questions below to be of priority because they would help us most in defining what problem we are trying to solve with the design. Defining the problem first, would provide the direction or standard as to what we need to accomplish.
+
+1. What does success look like for this project?
+In order to know if we need to adjust the design, are close to success, or have achieved it, we need to know what success would look like. Defining what is essential to all who are involved, from the client to the users, is important in serving as the measure of success. The subsequent questions listed here will help further define what success would look like.
+
+2. Who are the users? (patient, home care aide, the organization?)
+This question helps us define who we are designing for. Having a clear understanding of who we are designing for helps the team come up with ideas and more questions from the vantage point of the users. We must know who we are designing for before we can create an effective design. Consider all users that would be using the design and understand who the primary users are. This will help prioritize how the design will take shape.
+
+3. What are the main goals of the users? 
+Since one of the main points of the design is to help the user accomplish what they want to accomplish, gaining a clear understanding of what the users’ goals are is essential in creating a successful design.
+
+4. How do the users currently perform this task in their environment and what do they dislike/feel frustrated about with the current approach?
+This question helps us understand what has been tried or used already and what problems exist that need to be addressed most. We also gain a clearer understanding of what the users are familiar with and what environment limitations may be present.
+
+5. What is important to the users?
+Understanding what is important to users helps us know what must be taken into consideration and included in the design to make the users’ experience more meaningful. For example, things like privacy, providing an easy way to contact online support, or making it easy for caretakers or family members to provide assistance may be important to a user.
